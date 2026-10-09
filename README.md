@@ -5,7 +5,8 @@
 
 ## 在线查看 / Live map
 
-- 交互地图：`index.html`（GitHub Pages：`https://<user>.github.io/<repo>/`）
+- 交互地图：<https://choi-xi.github.io/Kunpeng-section9/>
+- 代码仓库：<https://github.com/choi-xi/Kunpeng-section9>
 - 高清路线图（4000×2828）：`assets/kunpeng-k9-section9-map.png`
 - GPX 轨迹（可导入两步路 / 户外助手 / OsmAnd）：`data/kunpeng-k9-section9.gpx`
 - GeoJSON（QGIS / kepler.gl）：`data/kunpeng-k9-section9.geojson`
